@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\bin\Debug\GapBuffer.exe.config
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\bin\Debug\GapBuffer.exe
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\bin\Debug\GapBuffer.pdb
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\obj\Debug\GapBuffer.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\obj\Debug\GapBuffer.Form1.resources
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\obj\Debug\GapBuffer.Properties.Resources.resources
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\obj\Debug\GapBuffer.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\obj\Debug\GapBuffer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\obj\Debug\GapBuffer.exe
+C:\Users\Alex\source\repos\GapBuffer\GapBuffer\obj\Debug\GapBuffer.pdb
