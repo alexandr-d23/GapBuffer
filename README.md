@@ -1,2 +1,2 @@
 # GapBuffer
-Путь к файлу с кодом windows-формы:  GapBuffer/Исходник/GapBuffer/GapBuffer/Form1.cs
+Доп ссылка на отчёт https://drive.google.com/drive/u/0/folders/1lZ7zV_mNEaKascUNp4xIppGV_e1trXFs
